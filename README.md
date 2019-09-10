@@ -7,4 +7,5 @@ This file includes pivot tables and charts that aggregate and summarize the perf
 1. Pivot Line Chart
 1. Pledged vs. Goal Scatter Plot
 1. Bonus--Percentage of Success
-1. Analysis--Word Doc
+## Analysis
+* Week 1 Excel Kickstarter Analysis
