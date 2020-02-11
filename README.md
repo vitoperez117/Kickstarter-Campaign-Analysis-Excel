@@ -1,4 +1,4 @@
-# Week-1-Excel-Homework--Kickstarters
+# Kickstarter-Campaign-Analysis-Excel
 This file includes pivot tables and charts that aggregate and summarize the performance of kickstarter campaigns conducted between 2009 to 2017.
 ## Sheets
 1. Data Table
